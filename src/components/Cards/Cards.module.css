@@ -1,0 +1,41 @@
+.container{
+    margin: 15px 0;
+   
+
+}
+
+
+
+.card{
+    margin: 0 2% !important;
+}
+
+.infected{
+    border-bottom: 10px solid rgba(0, 0, 255, 0.5);
+}
+
+.recovered{
+    border-bottom: 10px solid rgba(0, 255, 0, 0.5);
+}
+
+.deaths{
+    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
+
+.letter{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    color:cadetblue;
+}
+
+.params{
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Baloo 2', cursive;
+}
+
+@media (max-width : 770px){
+    .card{
+        margin: 2% 0 !important
+    }
+}

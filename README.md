@@ -1,3 +1,15 @@
+#steps
+1. type 'npm install' after code is open in visual studio.
+it will install all dependencies at once.
+
+
+2.download the api from below link;
+https://covid19.mathdro.id/api
+
+3.after that downoad the image
+https://i.ibb.co/7QpKsCX/image.png
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
